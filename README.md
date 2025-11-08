@@ -7,3 +7,7 @@ This repository demonstrates the GitHub CLI capabilities.
 - File operations
 - Issue management
 - Pull request workflows
+
+
+## Documentation
+This section contains documentation for the project.
